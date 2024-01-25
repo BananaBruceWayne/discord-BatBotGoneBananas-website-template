@@ -1,4 +1,4 @@
-# Discord bot website template
+8# Discord bot website template
 
 Beautiful website template for your discord bot to get started! Built with NextJs and Love!
 
@@ -25,3 +25,6 @@ That's it! Enjoy coding!
 - Author: Preet Suthar
   - [GitHub](https://github.com/preetsuthar17)
   - [Website](https://preetsuthar.me)
+
+BananaBruceWayne VercelID
+wTbBhijNVc83wSETTyM8MnAe
