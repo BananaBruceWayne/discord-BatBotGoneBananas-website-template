@@ -1,4 +1,4 @@
-8# Discord bot website template
+# Discord bot website template
 
 Beautiful website template for your discord bot to get started! Built with NextJs and Love!
 
